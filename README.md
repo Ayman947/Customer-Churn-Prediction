@@ -53,17 +53,24 @@
 
   # **Environment** & **Packages**
 
-  | Package Name | Functionality                 |
-  |--------------|-------------------------------|
-  | Pandas       | Data Manipulation             |
-  | numpy        | Numerical Calculations & Array Manipulations   |
-  | json         | Handling Json Files           |
-  | BeautifulSoup| Web scrapping                 |
-  | requests     | Building APIs                 |
-  | matplotlib   | Data Visualizatiom            |
-  | seaborn      | Data Visualizatiom            |
-  | Follium      | Geospatial Data Visualization |
-  | sklearn      | Machine learning algorithms   |
+|Package|Functionality|
+|-------------|-------------|
+|numpy|Numerical calculations & array manipulations|
+|pandas|Tabular data manipulation|
+|seaborn|Data visualizatiom|
+|matplotlib|Data visualizatiom|
+|sklearn.svm|Importing the Support Vector Machine ML model|
+|sklearn.neighbors|Importing the K Nearest Neighbour ML model|
+|sklearn.linear_model|Importing the Logistic Regression ML model|
+|sklearn.ensemble|Importing the Random Forest ML model|
+|xgboost|Importing the XGBoost ML model|
+|sklearn.model_selection|Importing GridSearchCV for model optimization - Importing train-test-split for splitting the data|
+|sklearn.preprocessing|Importing the StandardScaler for normalizing the data|
+|sklearn.metrics|Calculating model performance (i.e accuracy | F1-score | AUC)|
+|eli5|Importing PermutationImportance to calculate features importance|
+|imblearn|Importing the RandomOverSampler to balance the data|
+![image](https://user-images.githubusercontent.com/66120139/222436048-f9dc48d4-5721-4b47-846e-d7dce47aa017.png)
+
 
 
 
