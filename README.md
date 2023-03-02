@@ -24,7 +24,8 @@
   # **Data Sources**
 
   - [Data source: Telecom Customer Churn Raw Data ](https://github.com/Ayman947/Customer-Churn-Prediction/blob/main/Data/01%20data-raw.csv)
-  | Column Name | Description | Sample Values |
+  
+| Column Name | Description | Sample Values |
 |-------------|-------------|---------------|
 | customerID       | The customer's unique identifier  | 7590-VHVEG |
 | gender      | The customer's gender  | Male, Female |
