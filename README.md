@@ -72,17 +72,27 @@
 
   # **Data Cleansning & Preprocessing**
 
-  -
-  -
-  -
-  -
+  - Dropping the customer ids column.
+  - Adjusting the total charges column data type to be numeric. 
+  - Checking categorical classes for validity and consistency.
+  - Dropping duplicated customers.
+  - Checking and dealing with nulls.
+  - Shuffling data to avoid any unintended order.
+  - One-hot-encoding categorical features.
+  - Splitting the data for training and testing.
+  - Balancing the target variable classes.
+  - Normalizing/Standardizing the data. 
 
 
 
   # **EDA Insights**
 
-  - ![Model_Insight_Description](link)
-  - ![Model_Insight_Description](link)
+![Customer Churn Status Breakdown](https://github.com/Ayman947/Customer-Churn-Prediction/blob/main/Data/EDA-churn-breakdown.png)
+![Customer Churn Per Contract Type](https://github.com/Ayman947/Customer-Churn-Prediction/blob/main/Data/EDA-churn-vs-contract.png)
+![Customer Churn Per Internet Service](https://github.com/Ayman947/Customer-Churn-Prediction/blob/main/Data/EDA-churn-vs-internetService.png)
+![Customer Churn Per Payment Method](https://github.com/Ayman947/Customer-Churn-Prediction/blob/main/Data/EDA-churn-vs-paymentMethod.png)
+![Customer Churn Per Customer Tenure](https://github.com/Ayman947/Customer-Churn-Prediction/blob/main/Data/EDA-churn-vs-tenure.png)
+![Customer Churn Per Total charges](https://github.com/Ayman947/Customer-Churn-Prediction/blob/main/Data/EDA-churn-vs-totalCharges.png)
 
 
 
