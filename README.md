@@ -3,7 +3,7 @@
 **Business Background:** 
 - Customer churn is the tendency of customers to cancel their subscriptions to a service they have been using.
 - Customer churn rate is the percentage of churned customers within a predefined time interval.
-- Churn rate is an important indicator of customer satisfaction and the overall business wellness of the company.
+- The Churn rate is an important indicator of customer satisfaction and the overall business wellness of the company.
 
 
 
