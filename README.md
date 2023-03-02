@@ -99,9 +99,9 @@
 
 
 
-  # **Modeling & **Final Results**
+  # **Modeling** & **Final Results**
 
-  - We've built **4 ML classification** models to predict **customers churn**:
+We've built **4 ML classification** models to predict **customers churn**:
 1. Logistic Regression (LR)
 2. K Nearest Neighbor (KNN)
 3. XGBoost (XGB)
@@ -110,23 +110,10 @@
 ![](https://github.com/Ayman947/Customer-Churn-Prediction/blob/main/Data/Results.PNG)
 
 
-  # **Recommendations**
-
-  - csd
-  - vdf
-
-
-
   # **Conclusion**
 
-  - ###
-  - ###
+- By applying the **Logistic Regression** model, we will approximately tell **who may churn** with **F-score = 0.631** and **AUC = 0.767**.
 
+- Thus, the marketing professionals can determine the **customers to target** through the retention campaign.
 
-  # **Appendix**
-
-  - (Code-Dashboard-Paper)
-  - Presentation Storytelling
-
-
-GRAMMERLY
+- **(i.e. reduced costs & efficient business decisions)**
