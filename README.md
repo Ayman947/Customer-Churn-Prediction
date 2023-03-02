@@ -57,8 +57,8 @@
 |-------------|-------------|
 |numpy|Numerical calculations & array manipulations|
 |pandas|Tabular data manipulation|
-|seaborn|Data visualizatiom|
-|matplotlib|Data visualizatiom|
+|seaborn|Data visualization|
+|matplotlib|Data visualization|
 |sklearn.svm|Importing the Support Vector Machine ML model|
 |sklearn.neighbors|Importing the K Nearest Neighbour ML model|
 |sklearn.linear_model|Importing the Logistic Regression ML model|
