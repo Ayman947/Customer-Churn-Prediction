@@ -11,11 +11,14 @@
 - At the telecom company, the marketing department detected that they are losing many of their customers (i.e. high churn rate).
 - So, they decided to launch retention campaigns, and to be efficient they need to target just the customers who are about to churn.
 
-**Objective:** To determine the customers' tendency to churn.
+**Objective:** 
+- To determine the customers' tendency to churn.
 
-**Question:** Who will churn and who will not?
+**Question:**
+- Who will churn and who will not?
 
-**Analytics Solution / Methodology:** A supervised ML classification models will be built to predict the churn status of every customer.
+**Analytics Solution / Methodology:**
+- A supervised ML classification models will be built to predict the churn status of every customer.
 
 
 
