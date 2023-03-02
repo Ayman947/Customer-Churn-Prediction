@@ -31,7 +31,7 @@
 | gender      | The customer's gender  | Male, Female |
 | SeniorCitizen          | Indicates if the customer is 65 or older  | 0, 1 |
 | Dependents | Indicates if the customer lives with any dependents  | Yes, No |
-| tenure | Indicates the total amount of months the customer has been with the company | 1, 5 or 10 or ... etc. |
+| tenure | The total amount of months the customer has been with the company | 1, 5 or 10 or ... etc. |
 | PhoneService | Indicates if the customer subscribes to home phone service   | Yes, No |
 | MultipleLines | Indicates if the customer subscribes to multiple lines  service | Yes, No, No phone service |
 | InternetService          | Indicates if the customer subscribes to Internet service  | No, DSL, Fiber Optic |
