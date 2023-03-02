@@ -1,13 +1,13 @@
 # 📱👪📉 Telecom Customer Churn Prediction
 
-**Background:** 
+**Business Background:** 
 - Customer churn is the tendency of customers to cancel their subscriptions to a service they have been using.
 - Customer churn rate is the percentage of churned customers within a predefined time interval.
 - Churn rate is an important indicator of customer satisfaction and the overall business wellness of the company.
 
 
 
-**Problem:** 
+**Business Problem:** 
 - At the telecom company, the marketing department detected that they are losing many of their customers (i.e. high churn rate).
 - So, they decided to launch retention campaigns, and to be efficient they need to target just the customers who are about to churn.
  
@@ -23,7 +23,7 @@
 
   # **Data Sources**
 
-  - [Data source: Name ](link)
+  - [Data source: Telecom Customers Raw Data ](https://github.com/Ayman947/Customer-Churn-Prediction/blob/main/Data/01%20data-raw.csv)
   | Column | Description   | Example Values |
   |--------|---------------|----------------|
   |        |               |                |
