@@ -99,29 +99,15 @@
 
 
 
-  # **Modeling**
+  # **Modeling & **Final Results**
 
-  - We've built **[[ML Algo]]** to predict **[[target]]** using **[[Inputs]]**.
+  - We've built **4 ML classification** models to predict **customers churn**:
+1. Logistic Regression (LR)
+2. K Nearest Neighbor (KNN)
+3. XGBoost (XGB)
+4. Support Vector Machine (SVM)
 
-  | HyperParameters | Values   |
-  |-----------------|----------|
-  |                 |          |
-  |                 |          |
-
-  - Our model's accuracy is **[[## %]]** (i.e For every 100 predictions, there are ## predictions are true.)
-
-  - ![Model_Insight_Description](link)
-
-
-
-
-
-  # **Final Results**
-
-  - [Predicted Data Name](link)
-  - ![Insight_Description](link)
-  - [Dashboard Name](link)
-
+![](https://github.com/Ayman947/Customer-Churn-Prediction/blob/main/Data/Results.PNG)
 
 
   # **Recommendations**
