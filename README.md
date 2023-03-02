@@ -9,7 +9,7 @@
 
 **Problem:** 
 - At the telecom company, the marketing department detected that they are losing many of their customers (i.e. high churn rate).
-- So, they decided to launch retention campaigns, and to be efficient they need to target just the customers who have the tendency to churn.
+- So, they decided to launch retention campaigns, and to be efficient they need to target just the customers who are about to churn.
 
 **Objective:** To determine the customers' tendency to churn.
 
