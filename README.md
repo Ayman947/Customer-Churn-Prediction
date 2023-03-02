@@ -66,7 +66,7 @@
 |xgboost|Importing the XGBoost ML model|
 |sklearn.model_selection|Importing GridSearchCV for model optimization - Importing train-test-split for splitting the data|
 |sklearn.preprocessing|Importing the StandardScaler for normalizing the data|
-|sklearn.metrics|Calculating model performance (i.e accuracy | F1-score | AUC)|
+|sklearn.metrics|Calculating model performance (i.e accuracy & F1-score & AUC)|
 |eli5|Importing PermutationImportance to calculate features importance|
 |imblearn|Importing the RandomOverSampler to balance the data|
 
